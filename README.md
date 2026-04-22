@@ -11,6 +11,16 @@ Currently, two official plugins are available:
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+A modern and responsive job portal application built using React.js, JavaScript, Tailwind CSS, and Firebase/Firestore. The platform is designed to connect job seekers with recruiters through an easy-to-use interface for browsing jobs, applying for positions, and managing user profiles.A modern and responsive job portal application built using React.js, JavaScript, Tailwind CSS, and Firebase/Firestore. The platform is designed to connect job seekers with recruiters through an easy-to-use interface for browsing jobs, applying for positions, and managing user profiles. The project highlights strong frontend development skills, responsive UI design, state management, Firebase integration, and database handling. It demonstrates the ability to build a scalable and user-friendly web application with modern technologies.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Tech Stack: React.js, JavaScript, Tailwind CSS, Firebase Authentication, Firestore Database, React Router, Context API.
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm create vite@latest my-project
+  cd my-project
+live project link
+http://localhost:5173/
