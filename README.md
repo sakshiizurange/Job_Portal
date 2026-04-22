@@ -1,5 +1,7 @@
  # Online-Job-Portal
 
+ ![image alt](https://github.com/sakshiizurange/Job_Portal/blob/5174b080eab39ff65279c86ad6ce33a6d0355f41/Screenshot.png)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
