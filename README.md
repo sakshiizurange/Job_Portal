@@ -1,3 +1,5 @@
+ # Online-Job-Portal
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -22,5 +24,7 @@ Install my-project with npm
 ```bash
   npm create vite@latest my-project
   cd my-project
+
+##Deployment
 live project link
 http://localhost:5173/
